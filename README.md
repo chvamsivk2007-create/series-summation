@@ -12,7 +12,7 @@ Programs to compute the summation of the series 1 + X + X² + X³ + … using di
 ---
 
 ## 🛠️ Technologies
-- Python 3.x / C++ (depending on implementation)
+- C++ 
 
 ---
 
